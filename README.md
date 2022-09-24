@@ -38,7 +38,7 @@ Shadow Shutter studios is a state-of-art Template photography website. Here at S
   <img src="https://user-images.githubusercontent.com/96954007/192112737-77b96f34-fdf6-480c-81ff-b8e19f0f7241.JPG" width="45%" /> 
 </p>
 
-Want to see all the pages? Click Here [a relative link](PreviewImages.md)
+Want to see all the pages? [a Click Here](PreviewImages.md)
 
 ## Implementation
 * This simple yet responsive site is designed in HTML and CSS validated with JavaScript.

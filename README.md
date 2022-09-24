@@ -47,10 +47,10 @@ Want to see all the pages? Click Here
 
 ## Contributors
 Team Localhost consisting of <br>
-1. <a href="https://www.linkedin.com/in/fozail-ahmed-3297ab236/">Fozail Ahmed </a>
-2. <a href="https://www.linkedin.com/in/ananya-bhombore-674870245/">Ananya Bhombore </a>
-3. <a href="https://www.linkedin.com/in/mrudula-s-prassad-24712a16b"/>Mrudala S Prasad </a>
-4. <a href="https://www.linkedin.com/in/charan-simha-d-325664239/">Charan Simha </a>
+1. <a href="https://www.linkedin.com/in/fozail-ahmed-3297ab236/" target="_blank">Fozail Ahmed </a>
+2. <a href="https://www.linkedin.com/in/ananya-bhombore-674870245/" target="_blank">Ananya Bhombore </a>
+3. <a href="https://www.linkedin.com/in/mrudula-s-prassad-24712a16b/" target="_blank">Mrudala S Prasad </a>
+4. <a href="https://www.linkedin.com/in/charan-simha-d-325664239/" target="_blank">Charan Simha </a>
 
 
 

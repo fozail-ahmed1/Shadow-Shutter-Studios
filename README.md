@@ -2,6 +2,8 @@
 
 Shadow Shutter studios is a state-of-art Template photography website. Here at Shadow Shutter studios, we help you capture and relive the best memories in your life.
 
+The live website can be accessed at this link: http://simhac.pythonanywhere.com/
+
 ## Features
 
 * The website starts with a Splash Screen and then redirected to the home page which consists of a navbar to navigate from one section to another with an aesthetic background and attractive photos.

@@ -50,7 +50,7 @@ The live website can be accessed at this link: http://simhac.pythonanywhere.com/
 
 ## Contributors
 Team Localhost consisting of <br>
-1. <a href="https://www.linkedin.com/in/fozail-ahmed-3297ab236/">Fozail Ahmed </a>
+1. <a href="https://www.linkedin.com/in/fozail-ahmed1/">Fozail Ahmed </a>
 2. <a href="https://www.linkedin.com/in/ananya-bhombore-674870245/">Ananya Bhombore </a>
 3. <a href="https://www.linkedin.com/in/mrudula-s-prassad-24712a16b/">Mrudala S Prasad </a>
 4. <a href="https://www.linkedin.com/in/charan-simha-d-325664239/">Charan Simha </a>
